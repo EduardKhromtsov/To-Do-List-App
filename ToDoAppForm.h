@@ -40,4 +40,4 @@ private:
     void deleteTaskFromDataBase(const QString& taskName, const QString& date);
 };
 
-#endif // TODOAPPFORM_H
+#endif
